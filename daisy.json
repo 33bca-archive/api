@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1559181262,
-      "filename": "lineage-16.0-20190530-UNOFFICIAL-daisy.zip",
-      "id": "fd780d3389e95dfef69718e264c77282",
+      "datetime": 1559350414,
+      "filename": "lineage-16.0-20190601-UNOFFICIAL-daisy.zip",
+      "id": "8ff5a0a4782e6490e53240d5a28182f7",
       "romtype": "unofficial",
-      "size": 475817301,
-      "url": "https://www.leag.ch/offain/lineage-16.0-20190530-UNOFFICIAL-daisy.zip",
+      "size": 476557853,
+      "url": "https://www.leag.ch/offain/lineage-16.0-20190601-UNOFFICIAL-daisy.zip",
       "version": "16.0"
     }
   ]
